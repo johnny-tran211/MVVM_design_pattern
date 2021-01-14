@@ -1,4 +1,3 @@
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:fileStructure/viewmodels/news_article_view_model.dart';
 import 'package:fileStructure/widgets/circle_image.dart';
 import 'package:flutter/material.dart';
